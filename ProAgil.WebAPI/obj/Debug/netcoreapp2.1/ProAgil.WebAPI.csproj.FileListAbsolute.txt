@@ -1,0 +1,14 @@
+/media/leandro/01D3CE75193F7140/DOTNETCORE/ProAgil.WebAPI/bin/Debug/netcoreapp2.1/ProAgil.WebAPI.deps.json
+/media/leandro/01D3CE75193F7140/DOTNETCORE/ProAgil.WebAPI/bin/Debug/netcoreapp2.1/ProAgil.WebAPI.runtimeconfig.json
+/media/leandro/01D3CE75193F7140/DOTNETCORE/ProAgil.WebAPI/bin/Debug/netcoreapp2.1/ProAgil.WebAPI.runtimeconfig.dev.json
+/media/leandro/01D3CE75193F7140/DOTNETCORE/ProAgil.WebAPI/bin/Debug/netcoreapp2.1/ProAgil.WebAPI.dll
+/media/leandro/01D3CE75193F7140/DOTNETCORE/ProAgil.WebAPI/bin/Debug/netcoreapp2.1/ProAgil.WebAPI.pdb
+/media/leandro/01D3CE75193F7140/DOTNETCORE/ProAgil.WebAPI/obj/Debug/netcoreapp2.1/ProAgil.WebAPI.csprojAssemblyReference.cache
+/media/leandro/01D3CE75193F7140/DOTNETCORE/ProAgil.WebAPI/obj/Debug/netcoreapp2.1/ProAgil.WebAPI.csproj.CoreCompileInputs.cache
+/media/leandro/01D3CE75193F7140/DOTNETCORE/ProAgil.WebAPI/obj/Debug/netcoreapp2.1/ProAgil.WebAPI.RazorAssemblyInfo.cache
+/media/leandro/01D3CE75193F7140/DOTNETCORE/ProAgil.WebAPI/obj/Debug/netcoreapp2.1/ProAgil.WebAPI.RazorAssemblyInfo.cs
+/media/leandro/01D3CE75193F7140/DOTNETCORE/ProAgil.WebAPI/obj/Debug/netcoreapp2.1/ProAgil.WebAPI.AssemblyInfoInputs.cache
+/media/leandro/01D3CE75193F7140/DOTNETCORE/ProAgil.WebAPI/obj/Debug/netcoreapp2.1/ProAgil.WebAPI.AssemblyInfo.cs
+/media/leandro/01D3CE75193F7140/DOTNETCORE/ProAgil.WebAPI/obj/Debug/netcoreapp2.1/ProAgil.WebAPI.RazorTargetAssemblyInfo.cache
+/media/leandro/01D3CE75193F7140/DOTNETCORE/ProAgil.WebAPI/obj/Debug/netcoreapp2.1/ProAgil.WebAPI.dll
+/media/leandro/01D3CE75193F7140/DOTNETCORE/ProAgil.WebAPI/obj/Debug/netcoreapp2.1/ProAgil.WebAPI.pdb
